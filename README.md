@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Trojan (Treauidian)
 
-<!--
-**treaudian/treaudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧🥊  DevOps Nak Muay | 🐧 Linux Enthusiast | 🧠 Neurodiversity Ally
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a DevOps engineer passionate about automation, clean pipelines, and open source. Whether it's tuning infrastructure or tuning my roundhouse kicks, I'm always striving for efficiency and discipline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I'm a proud parent of a neurodiverse child, which constantly shapes how I think about inclusion, patience, and problem-solving—at home and in tech.  
+When I’m not in front of a terminal, you’ll probably find me training Muay Thai or trying to perfect the balance between parenthood and professional growth.
+
+---
+
+> _Building pipelines by day, throwing elbows by night._
+
+📫 Feel free to connect or collaborate on anything DevOps, Linux, or parenting-related!
