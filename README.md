@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trojan (Treauidian)
+# 👋 Hi, I'm Trojan (Treaudian)
 
 ## 🔧🥊  DevOps Nak Muay | 🐧 Linux Enthusiast | 🧠 Neurodiversity Ally
 
